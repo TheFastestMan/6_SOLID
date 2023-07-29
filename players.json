@@ -1,0 +1,41 @@
+[ {
+  "name" : "player1",
+  "age" : 34,
+  "active" : true
+}, {
+  "name" : "player2",
+  "age" : 20,
+  "active" : true
+}, {
+  "name" : "player3",
+  "age" : 37,
+  "active" : true
+}, {
+  "name" : "player4",
+  "age" : 34,
+  "active" : true
+}, {
+  "name" : "player5",
+  "age" : 21,
+  "active" : false
+}, {
+  "name" : "player6",
+  "age" : 39,
+  "active" : false
+}, {
+  "name" : "player7",
+  "age" : 28,
+  "active" : false
+}, {
+  "name" : "player8",
+  "age" : 25,
+  "active" : true
+}, {
+  "name" : "player9",
+  "age" : 22,
+  "active" : true
+}, {
+  "name" : "player10",
+  "age" : 21,
+  "active" : true
+} ]
